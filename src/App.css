@@ -22,7 +22,7 @@ button {
 .background {
     background-color: black;
     color: white;
-    height: 1000px;
+    height: 1200px;
     width: 100%;
     
 }
@@ -111,6 +111,7 @@ svg:not(:root) {
 .buttonn {
     font-size: 1.5rem;
     font-weight: 400;
+    padding-top: 2%;
 }
 
 .backgroundbutton {

@@ -197,8 +197,8 @@ const App = () => {
 
   return (
     <div className="background">
-      <div className="title">
-        <h2>자주 묻는 질문</h2>
+      <div className="title" style={{paddingTop:'3.5%'}}>
+        <h2 style={{fontSize:'2.3vw'}}>자주 묻는 질문</h2>
         <div className="buttonn">
           <ul style={{listStyle: "none"}}>
             <li className="first">
