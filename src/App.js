@@ -229,7 +229,7 @@ const App = () => {
                 </button>
               </h3>
               <div className={backOpen2 ? "backgroundbutton1" : "backgroundbutton"}>
-                <div id="content--temp--0" aria-labelledby="button--temp--0" role="region" data-is-open="false" content="[object Object]" className={isOpen2 ? "default-ltr-cache-e0ug1a" : "default-ltr-cache-1xe7mbe"}><span id="" data-uia="">광고형 베이식은 저렴한 요금으로 영화와 시리즈를 즐길 수 있는 방법입니다. 제한된 수의 중간 광고와 함께 다양한 디바이스에서 좋아하는 콘텐츠를 스트리밍할 수 있습니다. 저장 기능은 지원되지 않으며, 라이선스 제한으로 인해 일부 영화와 시리즈를 이용할 수 없습니다. 또한 일부 위치 및 디바이스 제한도 적용됩니다. 자세히 알아보기.</span></div>
+                <div id="content--temp--0" aria-labelledby="button--temp--0" role="region" data-is-open="false" content="[object Object]" className={isOpen2 ? "default-ltr-cache-e0ug1a" : "default-ltr-cache-1xe7mbe"}><span id="" data-uia="">광고형 베이식은 저렴한 요금으로 영화와 시리즈를 즐길 수 있는 방법입니다. 제한된 수의 중간 광고와 함께 다양한 디바이스에서 좋아하는 콘텐츠를 스트리밍할 수 있습니다. 저장 기능은 지원되지 않으며, 라이선스 제한으로 인해 일부 영화와 시리즈를 이용할 수 없습니다. 또한 일부 위치 및 디바이스 제한도 적용됩니다. <a href="https://help.netflix.com/ko/node/126831" style={{color:'white'}}>자세히 알아보기.</a></span></div>
                 </div>
             </li>
             <li className="second" style={{marginTop:'10px'}}>
